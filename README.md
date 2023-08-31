@@ -12,9 +12,35 @@ Em termos de pacotes do Python, foram utilizados os seguintes: MPDAF (MUSE Pytho
 
 *Realizado no período de Agosto/2021 à Maio/2022.*
 
-> Aprecie sem moderação :heartpulse:
-> ###### Créditos da imagem: NASA, ESA e Z. Levay (STScI)
-![eso1819a](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/f7f6a54c-d851-421c-9f35-f282aff0a34a)
+## ***Aprecie sem moderação :sparkles:***
 
-> Imagem do corte do cubo de dados original em torno da galáxia central.
-![cutout_eso325(1)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/2917df5e-d4ae-4cb5-901e-892168d19a2e)
+
+Imagem da galáxia ESO 325-G004
+> ###### Créditos da imagem: NASA, ESA e Z. Levay (STScI)
+![eso1819a(2)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/73b30032-e4f9-4d54-a405-f27d2342a19f)
+
+
+Imagem do corte do cubo de dados original em torno da galáxia central.
+> ![cutout_eso325(1)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/2917df5e-d4ae-4cb5-901e-892168d19a2e)
+
+### *Resultados:*
+
+Mapa da velocidade média.
+> ![velmedia(1)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/a0766235-fbeb-4df9-ad83-5661445a2656)
+
+ Mapa da dispersão de velocidades.
+> ![dispers(1)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/df2019a5-2d8d-471e-a6ec-b6ea049bbbf8)
+
+:milky_way: Perspectivas: estes mapas serão utilizados no futuro para se obter um modelo dinâmico da galáxia,
+de onde será possível obter sua massa dinâmica e potencial gravitacional. Com tais
+espectros ainda seria possível derivar as propriedades das populações estelares da
+galáxia, como sua metalicidade e idade. 
+
+
+
+
+
+
+
+
+
