@@ -1,5 +1,5 @@
 # E325-IC-UFRGS
-:cloud:  This scientific initiation project, guided by professor Cristina Furlanetto and with collaboration from PhD Carlos de Melo, aims to study and investigate the kinematics and stellar populations of the elliptical galaxy ESO 325-G004 (also referred to as ESO325), one of the closest known gravitational lenses (z = 0.035). For this purpose, integral field spectroscopy data obtained with the Multi Unit Spectroscopic Explorer (MUSE) instrument of the VLT telescope were used, along with various Python programming language programs to conduct the analyses.
+:cloud:  This scientific initiation project, guided by professor Cristina Furlanetto and with collaboration from PhD Carlos de Melo, aims to study and investigate the kinematics and stellar populations of the elliptical galaxy ESO 325-G004 (ESO325), one of the closest known gravitational lenses (z = 0.035). For this purpose, integral field spectroscopy data obtained with the Multi Unit Spectroscopic Explorer (MUSE) instrument of the VLT telescope were used, along with various Python programming language programs to conduct the analyses.
 
 *Period from August 2021 to May 2022.*
 
