@@ -3,7 +3,7 @@
 
 *Period from August 2021 to May 2022.*
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **PORTUGUÊS:**
 
 :cloud:  Este projeto de iniciação científica, orientado pela professora Cristina Furlanetto e com colaboração do doutorando Carlos de Melo, teve como ojetivo o estudo e investigação da cinemática das populações estelares da galáxia elíptica ESO 325-G004 (ESO325), uma das lentes gravitacionais mais próximas que se tem conhecimento (z = 0,035).
@@ -12,12 +12,15 @@ Em termos de pacotes do Python, foram utilizados os seguintes: MPDAF (MUSE Pytho
 
 *Realizado no período de Agosto/2021 à Maio/2022.*
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Dá uma olhada [nesse vídeo](https://youtu.be/Ne8q8hMETj0?si=0GoD9Fj4B__JQ_dH) que eu falo super rápido mas da pra saber um pouco mais desse projeto! 
 ## ***Aprecie sem moderação :sparkles:***
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Imagem da galáxia ESO 325-G004
-> ###### Créditos da imagem: NASA, ESA e Z. Levay (STScI)
-![eso1819a(2)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/73b30032-e4f9-4d54-a405-f27d2342a19f)
+###### Créditos da imagem: NASA, ESA e Z. Levay (STScI)
+>![eso1819a(2)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/73b30032-e4f9-4d54-a405-f27d2342a19f)
 
 
 Imagem do corte do cubo de dados original em torno da galáxia central.
