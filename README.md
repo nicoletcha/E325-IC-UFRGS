@@ -1,4 +1,4 @@
-# E325-IC-UFRGS
+<h1 align="center">  E325-IC-UFRGS </h1>
 :cloud:  This scientific initiation project, guided by professor Cristina Furlanetto and with collaboration from PhD Carlos de Melo, aims to study and investigate the kinematics and stellar populations of the elliptical galaxy ESO 325-G004 (ESO325), one of the closest known gravitational lenses (z = 0.035). For this purpose, integral field spectroscopy data obtained with the Multi Unit Spectroscopic Explorer (MUSE) instrument of the VLT telescope were used, along with various Python programming language programs to conduct the analyses.
 
 *Period from August 2021 to May 2022.*
@@ -13,8 +13,8 @@ Em termos de pacotes do Python, foram utilizados os seguintes: MPDAF (MUSE Pytho
 *Realizado no período de Agosto/2021 à Maio/2022.*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-Dá uma olhada [nesse vídeo](https://youtu.be/Ne8q8hMETj0?si=0GoD9Fj4B__JQ_dH) que eu falo super rápido mas da pra saber um pouco mais desse projeto! 
-## ***Aprecie sem moderação :sparkles:***
+### Dá uma olhada [nesse vídeo](https://youtu.be/Ne8q8hMETj0?si=0GoD9Fj4B__JQ_dH) que eu falo super rápido mas dá pra saber um pouco mais desse projeto! 
+#### ***Aprecie sem moderação :sparkles:***
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -26,7 +26,7 @@ Imagem da galáxia ESO 325-G004
 Imagem do corte do cubo de dados original em torno da galáxia central.
 > ![cutout_eso325(1)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/2917df5e-d4ae-4cb5-901e-892168d19a2e)
 
-### *Resultados:*
+<h1 align="center"> Resultados: </h1>
 
 Mapa da velocidade média.
 > ![velmedia(1)](https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/a0766235-fbeb-4df9-ad83-5661445a2656)
