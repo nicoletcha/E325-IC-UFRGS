@@ -39,9 +39,10 @@ de onde será possível obter sua massa dinâmica e potencial gravitacional. Com
 espectros ainda seria possível derivar as propriedades das populações estelares da
 galáxia, como sua metalicidade e idade. 
 
+<p align="center" width="100%">
+<img width="33%" src="https://github.com/astronicmn/E325-IC-UFRGS/assets/95356395/dc383cfd-dfeb-48ec-ac6e-1556128e10c7">
 
-
-
+</p>  
 
 
 
